@@ -1,4 +1,3 @@
-layout_spectrum: 0.3609107448719442
 typography_spectrum: 0.10569094680249691
 color:
   brandStrength: 0.5524881461169571
@@ -11,5 +10,10 @@ color:
     - '#7ECEFD'
     - '#FFF6E5'
     - '#FF7F66'
+layout_spectrum: 0.3609107448719442
+author:
+  name: Franck Scuotto
+  email: contact@franckscuotto.com
+  url: www.franckscuotto.com
 name: Franck Scuotto
-title: Photography
+title: ''
