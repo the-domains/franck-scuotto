@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Franck Scuotto]]></title>
         <description><![CDATA[Franck Scuotto]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/franck-scuotto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 06:10:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 22 May 2016 06:10:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/franck-scuotto/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Projections in the Forest]]></title>
+            <description><![CDATA[<article><h1>Projections in the Forest</h1><p>Behind the scenes: http://vimeo.com/3hund/behindthescenes The projection mapping "bioluminescent forest" is made by artists Friedrich van Schoor and Tarek Mawad. The artists spent six weeks in the forest fascinated by the silence and natural occurrences in nature, especially the phenomenon "bioluminescence".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b83965374a2c848c4c534c3cde750be2d2a50c9.jpg"></article>]]></description>
+            <link>https://vimeo.com/115082758</link>
+            <guid isPermaLink="false">0c518c0b-b748-4531-8efe-821affca67d6</guid>
+            <pubDate>Sun, 22 May 2016 06:10:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bits And Pieces - An organic wave of Hoberman Spheres]]></title>
             <description><![CDATA[<article><h1>Bits And Pieces - An organic wave of Hoberman Spheres</h1><p>Currently on show at Berlin's NOME Gallery is the latest work by Nils Völker titled Bits And Pieces. The installation consists out of 108 mass-produced toy spheres hanging in the middle of the exhibition space, individually addressable and controlled, to create organic waves that appear to move throughout the space.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29c17de1db318a16ae7c090ab6a2dab8f308c76c.jpg"></article>]]></description>
