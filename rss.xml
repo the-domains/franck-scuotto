@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Franck Scuotto]]></title>
+        <description><![CDATA[Franck Scuotto]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 28 Jun 2016 13:24:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/855c77744fd06379c739541d9d6e33cf/croprotate.jpg?cropheight=1230&cropwidth=2114&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe98c1d1f-4360-4f4c-85d1-7c6a5ee520a0.jpg&x=0&y=0">]]></description>
+            <link>undefinedc4c60431-650a-4b5a-b888-9d4e9d036fea/index.html</link>
+            <guid isPermaLink="false">c4c60431-650a-4b5a-b888-9d4e9d036fea</guid>
+            <pubDate>Tue, 28 Jun 2016 13:24:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
