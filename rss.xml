@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Franck Scuotto]]></title>
         <description><![CDATA[Franck Scuotto]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/franck-scuotto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 13:24:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 28 Jun 2016 13:24:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/franck-scuotto/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0ba4ed4-d96f-4ede-aab0-91ee660bb3e8.jpg">]]></description>
+            <link>https://thegrid.ai/franck-scuotto/799cd013-8af7-40a1-8e0e-0b6a8e4b382c/index.html</link>
+            <guid isPermaLink="false">799cd013-8af7-40a1-8e0e-0b6a8e4b382c</guid>
+            <pubDate>Tue, 28 Jun 2016 13:24:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/855c77744fd06379c739541d9d6e33cf/croprotate.jpg?cropheight=1230&cropwidth=2114&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe98c1d1f-4360-4f4c-85d1-7c6a5ee520a0.jpg&x=0&y=0">]]></description>
-            <link>undefinedc4c60431-650a-4b5a-b888-9d4e9d036fea/index.html</link>
+            <link>https://thegrid.ai/franck-scuotto/c4c60431-650a-4b5a-b888-9d4e9d036fea/index.html</link>
             <guid isPermaLink="false">c4c60431-650a-4b5a-b888-9d4e9d036fea</guid>
             <pubDate>Tue, 28 Jun 2016 13:24:01 GMT</pubDate>
         </item>
